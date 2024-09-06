@@ -1,0 +1,1 @@
+This project is all about a Voting application (Backend only)
